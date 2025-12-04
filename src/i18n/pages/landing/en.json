@@ -1,0 +1,134 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "hero": {
+    "logo": {
+      "href": "/",
+      "label": "Convert JPG to PNG Format with Ease – High-Quality Image Conversion",
+      "src": "/logo.svg",
+      "alt": "Convert JPG to PNG Format with Ease – High-Quality Image Conversion"
+    },
+    "show_locale": true,
+    "title": "Our tool helps you quickly convert JPG to PNG format. Upload your file, hit convert, and receive a clean, high-quality PNG in seconds—no extras, no distractions, just fast and reliable conversion.",
+    "upLoadButton": {
+      "tit1": "Drag and drop an image or",
+      "tit2": "browse to upload.",
+      "tit3": "Upload your photo",
+      "tit4": "File must be JPEG, JPG or WebP and up to 40MB",
+      "tit5": "Free to use",
+      "tit6": "No credit card required",
+      "tit7": "By uploading your image or video, you agree to the Adobe ",
+      "tit8": "Terms of Service",
+      "tit9": " and ",
+      "tit10": "Privacy Policy",
+      "tit11": "Conversion completed, file has started downloading ✅",
+      "tit12": "Transformation...",
+      "tit13": "Only supports JPG/JPEG images",
+      "tit14": "The file cannot exceed 40MB",
+      "tit15": "Converting to PNG ...",
+      "tit16": "Conversion failed, please try again"
+    }
+  },
+  "introduce": {
+    "name": "introduce",
+    "label": "Introduce",
+    "title": "How You Can Convert JPG to PNG Format",
+    "description": "With these three simple steps, you can easily convert JPG to PNG format:",
+    "items": [
+      {
+        "title": "1.Select Your JPG File",
+        "description": "Click “Upload your file” to select the JPG image you want to convert.",
+        "icon": "RiUpload2Line"
+      },
+      {
+        "title": "2.Start Conversion",
+        "description": "Press the “Convert to PNG” button to begin the format conversion.",
+        "icon": "RiGalleryLine"
+      },
+      {
+        "title": "3.Download Your PNG File",
+        "description": " Once the status shows “Done,” click “Download PNG” to save your converted image.",
+        "icon": "RiEdit2Fill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "The Best Tool to Convert JPG to PNG Format",
+    "label": "Benefits",
+    "description": "Looking for a fast and reliable way to convert JPG to PNG format? Our online tool makes it simple. Upload your JPG image and get a high-quality PNG file in seconds. PNGs support transparency, smoother edges, and lossless quality, making them perfect for digital projects, websites, or print materials.",
+    "items": [
+      {
+        "title": "Instant Download and Share",
+        "description": "  After you convert JPG to PNG format, your PNG file is ready to download immediately. Use it in presentations, social media, or any digital and printed platforms. Our tool saves time and ensures effortless sharing.",
+        "icon": "/imgs/features/1.webp"
+      },
+      {
+        "title": "Simple and Focused",
+        "description": "  Our website is dedicated solely to helping you convert JPG to PNG format, with no distractions or unnecessary features—just fast, accurate conversion. Upload your JPG file today and experience seamless PNG results.",
+        "icon": "/imgs/features/2.webp"
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "Easily Convert JPG to PNG Format for Free",
+    "description": "Say goodbye to complex software—our site allows you to easily convert JPG to PNG format for free. Whether you're on mobile or desktop, you can transform your JPG into a high-quality PNG with just a click.",
+    "items": [
+      {
+        "title": "Simple Drag-and-Drop Conversion",
+        "description": "  Drag and drop your JPG image to quickly convert JPG to PNG format. Once completed, download your PNG instantly.",
+        "icon": "RiCheckFill"
+      },
+      {
+        "title": "High-Quality PNGs Without Compromise",
+        "description": "  When you convert JPG to PNG format, your image maintains clarity, colors, and details. Every PNG file is crisp and professional.",
+        "icon": "RiCheckFill"
+      },
+      {
+        "title": "Ready to Use and Share",
+        "description": "  Your converted PNG is ready for websites, presentations, and any digital or printed project. Our site focuses purely on helping you convert JPG to PNG format—simple, fast, and hassle-free.",
+        "icon": "RiCheckFill"
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "title": "What is a PNG File?",
+        "description": "  A PNG (Portable Network Graphics) file is a widely used image format ideal for high-quality graphics and transparency. When you convert JPG to PNG format, your image gains improved clarity and flexibility."
+      },
+      {
+        "title": "What Does PNG Stand For?",
+        "description": "  PNG stands for Portable Network Graphics. Converting JPG to PNG format ensures that your images display clearly across devices and operating systems."
+      },
+      {
+        "title": "What Are PNG Files Best For?",
+        "description": "  PNG files are great for logos, icons, graphics, and images requiring transparency. By choosing to convert JPG to PNG format, you make your visuals more adaptable for design or web use."
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "copyright": "© 2025 • Convert Jpg to Png. All rights reserved.",
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        },
+        {
+          "title": "Contact Us",
+          "url": "mailto:support@convertjpgtopng.com"
+        }
+      ]
+    }
+  }
+}

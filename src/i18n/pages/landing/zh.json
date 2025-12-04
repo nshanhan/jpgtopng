@@ -1,0 +1,135 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "hero": {
+    "logo": {
+      "href": "/",
+      "label": "轻松将 JPG 转换为 PNG——高质量图像转换",
+      "src": "/logo.svg",
+      "alt": "轻松将 JPG 转换为 PNG——高质量图像转换"
+    },
+    "show_locale": true,
+    "title": "我们的工具帮助你快速将 JPG 转换成 PNG。上传文件、点击转换，几秒内即可获得干净高质量的 PNG——无额外噪音，只提供快速可靠的转换体验。",
+    "upLoadButton": {
+      "tit1": "拖放图片到此处，或",
+      "tit2": "浏览上传。",
+      "tit3": "上传你的照片",
+      "tit4": "文件需为 JPEG、JPG 或 WebP 且不超过 40MB",
+      "tit5": "永久免费",
+      "tit6": "无需信用卡",
+      "tit7": "上传图片或视频即表示同意 Adobe 的 ",
+      "tit8": "服务条款",
+      "tit9": " 和 ",
+      "tit10": "隐私政策",
+      "tit11": "转换完成，文件已开始下载 ✅",
+      "tit12": "正在转换...",
+      "tit13": "仅支持 JPG/JPEG 图片",
+      "tit14": "文件大小不能超过 40MB",
+      "tit15": "正在转换为 PNG ...",
+      "tit16": "转换失败，请重试"
+    }
+  },
+  "introduce": {
+    "name": "introduce",
+    "label": "介绍",
+    "title": "如何将 JPG 转换成 PNG",
+    "description": "按照以下三个简单步骤，就能轻松把 JPG 转成 PNG：",
+    "items": [
+      {
+        "title": "1. 选择 JPG 文件",
+        "description": "点击“上传你的文件”，选择想要转换的 JPG 图片。",
+        "icon": "RiUpload2Line"
+      },
+      {
+        "title": "2. 开始转换",
+        "description": "按下“转换为 PNG”按钮，即可启动格式转换。",
+        "icon": "RiGalleryLine"
+      },
+      {
+        "title": "3. 下载 PNG 文件",
+        "description": "当状态显示“完成”时，点击“下载 PNG”保存转换后的图片。",
+        "icon": "RiEdit2Fill"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "将 JPG 转换为 PNG 的最佳工具",
+    "label": "优势",
+    "description": "需要快速可靠地将 JPG 转成 PNG？我们的在线工具让这一切变得简单。上传 JPG 图片，几秒内就能获得高质量 PNG。PNG 支持透明背景、边缘更平滑且无损画质，适合数字项目、网站或印刷物料。",
+    "items": [
+      {
+        "title": "立即下载并分享",
+        "description": "完成 JPG 转 PNG 后即可马上下载，可用于演示、社交媒体或任何数字与印刷平台。我们的工具节约时间，让分享更轻松。",
+        "icon": "/imgs/features/1.webp"
+      },
+      {
+        "title": "简单专注",
+        "description": "我们的网站只专注于 JPG 转 PNG，没有多余干扰或繁琐功能——只有快速、准确的转换体验。今天就上传 JPG，体验顺滑的 PNG 输出。",
+        "icon": "/imgs/features/2.webp"
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "免费轻松将 JPG 转成 PNG",
+    "description": "无需复杂软件——我们的网站让你免费、轻松地把 JPG 转换成 PNG。无论是手机还是桌面，只需点击即可得到高质量 PNG。",
+    "items": [
+      {
+        "title": "拖拽即可转换",
+        "description": "拖拽 JPG 图片即可快速完成转换，完成后立刻下载 PNG。",
+        "icon": "RiCheckFill"
+      },
+      {
+        "title": "高质量 PNG 不妥协",
+        "description": "把 JPG 转成 PNG 后，图像依然保持清晰、色彩和细节，每个 PNG 都专业又锐利。",
+        "icon": "RiCheckFill"
+      },
+      {
+        "title": "随时使用与分享",
+        "description": "转换后的 PNG 可直接用于网站、演示或任何数字/印刷项目。我们专注于提供快速、无烦恼的 JPG 转 PNG 体验。",
+        "icon": "RiCheckFill"
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "常见问题",
+    "title": "常见问题",
+    "items": [
+      {
+        "title": "什么是 PNG 文件？",
+        "description": "PNG（可移植网络图形）是一种广泛使用的图像格式，尤其适合需要高质量和透明背景的图像。将 JPG 转成 PNG，可以让图片拥有更佳清晰度和灵活性。"
+      },
+      {
+        "title": "PNG 是什么的缩写？",
+        "description": "PNG 是 Portable Network Graphics 的缩写。把 JPG 转换为 PNG，能确保图像在不同设备和操作系统上都清晰呈现。"
+      },
+      {
+        "title": "PNG 文件最适合哪些用途？",
+        "description": "PNG 非常适合徽标、图标、图形以及任何需要透明背景的图像。选择 JPG 转 PNG，可以让你的视觉素材在设计或网页中更易适配。"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "copyright": "© 2025 • Convert Jpg to Png. All rights reserved.",
+    "agreement": {
+      "items": [
+        {
+          "title": "隐私政策",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "服务条款",
+          "url": "/terms-of-service"
+        },
+        {
+          "title": "联系我们",
+          "url": "mailto:support@convertjpgtopng.com"
+        }
+      ]
+    }
+  }
+}
+
